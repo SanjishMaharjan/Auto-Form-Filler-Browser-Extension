@@ -75,3 +75,7 @@ git clone https://github.com/SanjishMaharjan/Auto-Form-Filler-Browser-Extension
 # Navigate into folder
 cd Auto-Form-Filler-Browser-Extension
 ```
+
+## 📜 Sample Form Filler Popup
+
+![alt text](image.png)
